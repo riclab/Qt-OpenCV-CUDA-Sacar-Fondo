@@ -1,0 +1,1 @@
+# Qt-OpenCV-CUDA-Sacar-Fondo
